@@ -1,0 +1,4 @@
+model_checkpoint_path: "BioASQ-BCNN-2-3"
+all_model_checkpoint_paths: "BioASQ-BCNN-2-1"
+all_model_checkpoint_paths: "BioASQ-BCNN-2-2"
+all_model_checkpoint_paths: "BioASQ-BCNN-2-3"
