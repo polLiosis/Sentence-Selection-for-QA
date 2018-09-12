@@ -7,10 +7,10 @@ This is the implementation (keras) of a state-of-the-art model proposed by [Alia
 - **BM25 / BM25_files**: Folders where we save BM25 scores etc.
 - **Embeddings**: Folder with pre-trained embeddings.
 - **experiments**: Here we save the results of our experiments.
-- ** parse_BioASQ.py / parse_TrecQA.py / parse_WikiQA.py**: scripts used for parsing of the respective datasets.
+- **parse_BioASQ.py / parse_TrecQA.py / parse_WikiQA.py**: scripts used for parsing of the respective datasets.
 - **BM25.py**: script used in order to compute BM25 scores.
-- ** SMCNN_model.py**: Implementation of the specific model.
-- ** main.py**: Script used in order to train and test the model.
+- **SMCNN_model.py**: Implementation of the specific model.
+- **main.py**: Script used in order to train and test the model.
 
 
 #### Preprocessing

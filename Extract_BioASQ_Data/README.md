@@ -1,6 +1,6 @@
 ## Create QA pairs from BioASQ files
 
-Script used in order to download and create the BioASQ dataset.
+Scripts used in order to download and create the BioASQ dataset.
 
 #### Specification
 - **BioASQ_json_files**: Published json files.
